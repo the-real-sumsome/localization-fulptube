@@ -1,64 +1,64 @@
 <?php
     // [TODO]
     $cLang = array(
-        "languageD" => "English",
+        "languageD" => "LOLCAT",
 
         // [categories]
-        "recentC" => "Most Recent on FulpTube - Worldwide",
-        "musicC" => "Music",
-        "reccomendedC" => "Recommended",
-        "videoC" => "Gaming",
-        // [video] 
-        "byUsr" => "by",
-        "agoLeft" => "a few",
+        "recentC" => "MOST RESENT ON FULPTUBE - WORLDWIDE PLZ?",
+        "musicC" => "MUSIC",
+        "reccomendedC" => "RECOMMENDD",
+        "videoC" => "GAMIN",
+        // [video]
+        "byUsr" => "BAI",
+        "agoLeft" => "A FEW",
         "agoRight" => "", // <agoLeft> <date> <agoRight> ex: 3 seconds ago
-        "justNow" => "just now",
-        "ago" => "ago",
-        "country" => "Country",
-        "eViews" => "views",
-        "worldwide" => "Worldwide",
-        "gotIt" => "Got it!",
-        "welcomeToFulpTubeHomepage" => "Welcome to the FulpTube homepage",
+        "justNow" => "JUS NAO",
+        "ago" => "AGO",
+        "country" => "COUNTRY",
+        "eViews" => "VIEWZ",
+        "worldwide" => "WORLDWIDE",
+        "gotIt" => "GETED IT :D",
+        "welcomeToFulpTubeHomepage" => "WELCOM 2 TEH FULPTUBE HOMEPAGE",
         // [sidebar]
-        "channelsForYou" => "Channels for You",
-        "dashboardText" => "Videos from your channel subscriptions and personalized video recommendations appear below. FulpTube sorts these videos based on what we think you'll want to watch next.<br><br>
-        Want to see all the latest activity from your subscriptions?<br>
-        Check out <a href=\"#\">My Subscriptions</a>.",
-        "subscriptions" => "Subscriptions",
-        "subscriptionManage" => "Manage Subscriptions",
-        "browseChannels" => "Browse Channels",
-        "newestVideos" => "Newest Videos",
-        "signInNow" => "Sign in now to see your channels and recommendations!",
+        "channelsForYou" => "CHANNELS 4 U",
+        "dashboardText" => "VIDEOS FRUM UR CHANNEL SUBSCRIPSHUNS AN PERSONALIZD VIDEO RECOMMENDASHUNS APPEAR BELOW. FULPTUBE SORTS THEES VIDEOS BASD ON WUT WE FINKZ ULL WANTS 2 WATCH NEXT.<br><br>
+        WANTS 2 C ALL TEH LATEST ACTIVITY FRUM UR SUBSCRIPSHUNS?<br>
+        CHECK OUT <A HREF=\"#\">MAH SUBSCRIPSHUNS</A>.",
+        "subscriptions" => "SUBSCRIPSHUNS",
+        "subscriptionManage" => "MANAGE SUBSCRIPSHUNS",
+        "browseChannels" => "BROWSE CHANNELZ",
+        "newestVideos" => "NEWEST VIDEOZ",
+        "signInNow" => "SIGN IN NAO 2 C UR CHANNELS AN RECOMMENDASHUNS!",
         // [header]
-        "uploadVid" => "Upload",
-        "browse" => "Browse",
-        "vChannel" => "Channel",
-        "feed" => "Feed",
-        "vUploaded" => "Uploaded",
-        "vCancel" => "Cancel",
-        "vDuration" => "Duration",
-        "annoHowtoTitle" => "How to use:",
+        "uploadVid" => "UPLOAD",
+        "browse" => "BROWSE",
+        "vChannel" => "CHANNEL",
+        "feed" => "FEED",
+        "vUploaded" => "UPLOADED",
+        "vCancel" => "CANCEL",
+        "vDuration" => "DURASHUN",
+        "annoHowtoTitle" => "HOW 2 USE:",
         "videoResponseStart" => "<a href=\"/videoresponse?v=",
-        "videoResponseEnd" => "\">Create a video response</a> or ",
-        "vViews" => "views",
-        "vLikes" => "Likes",
-        "annoCreator" => "Annotation Maker by Crazy Frog",
-        "vDislikes" => "Dislikes",
-        "toCreateAnnotations" => "To start creating annotations for your video, please upload a file.",
+        "videoResponseEnd" => "\">CREATE VIDEO RESPONSE</a> or ",
+        "vViews" => "VIEWS",
+        "vLikes" => "LIKES",
+        "annoCreator" => "ANNOTASHUN MAKR BY CRAZY FROG",
+        "vDislikes" => "DISLIKES",
+        "toCreateAnnotations" => "2 START CREATIN ANNOTASHUNS 4 UR VIDEO, PLZ UPLOAD FILE.",
         "vStatus" => "Status",
         "toggleCommenting" => "Toggle Commenting",
         "vComments" => "Comments",
-        "annoHowto" => 'Set the position, scale, color and duration for your annotations.<br><br>
-        Press the "Add to Output" button to save your changes.<br><br>
-        If you don\'t like the changes you made, press the "Undo" button.<br><br>
-        To start new, press the "Clear Output" button.<br><br>
-        If you are happy with your annotations, press the "Copy to Clipboard" button to copy the finished contents to your clipboard.',
-        "vURL" => "Video URL",
-        "actualUploadVideo" => "Upload Video",
-        "delete" => "Delete",
-        "thumbnail" => "Thumbnail",
-        "upload" => "Upload",
-        "signIn" => "Sign in",
+        "annoHowto" => 'SET TEH POSISHUN, SCALE, COLOR AN DURASHUN 4 UR ANNOTASHUNS.<BR><BR>
+        PRES TEH "ADD 2 OUTPUT" BUTN 2 SAVE UR CHANGEZ.<BR><BR>
+        IF U DON\T LIEK TEH CHANGEZ U MADE, PRES TEH "UNDO" BUTN.<BR><BR>
+        2 START NEW, PRES TEH "CLEAR OUTPUT" BUTN.<BR><BR>
+        IF U R HAPPEH WIF UR ANNOTASHUNS, PRES TEH "COPY 2 CLIPBORD" BUTN 2 COPY TEH FINISHD CONTENTS 2 UR CLIPBORD.',
+        "vURL" => "VIDEO URL",
+        "actualUploadVideo" => "UPLOAD VIDEO",
+        "delete" => "DELET",
+        "thumbnail" => "THUMBNAIL",
+        "upload" => "UPLOAD",
+        "signIn" => "SIGN IN",
         // [time]
         "year" => "year",
         "month" => "month",
@@ -129,10 +129,10 @@
         "signInBenifits" => "Sign in now, and use your FulpTube account to: ",
         "s1a" => "Keep up with your favorite channels",
         "s1b" => "Save videos to watch later, watch recommendations just for you, or subscribe to get updates from your favorite channels.",
-        "s2a" => "Watch everywhere", 
+        "s2a" => "Watch everywhere",
         "s2b" => "Take your picks with you wherever you go ? watch on your smartphone, tablet, or smart TV.",
         "s3a" => "Share with your friends",
-        "s3b" => "See videos shared by your friends across all your social networks ? all in one place.", 
+        "s3b" => "See videos shared by your friends across all your social networks ? all in one place.",
         // [misc]
         //"" => "",
         "username2" => "Username",
@@ -215,13 +215,13 @@
         "aboutResults" => "About %s results",
         "searchSubscriptions" => "Search subscriptions",
         "watchLater" => "Watch Later",
-        "donotreupload" => "                            <b style=\"font-size: 18px;\">Please, don't reupload videos that aren't yours.</b><br>
-        <br>
-        Thumbnails are auto generated. <br>
-        All videos are converted to 720p@1000kbps H264/AAC by FFMPEG, allowing a wide variety of formats.<br>
-        Videos must be smaller than 100MB. (because of Cloudflare)<br>
-        No copyrighted content that will get us DMCA'd.<br>
-        <b>Videos are manually approved.</b>",
+        "donotreupload" => "                            <B STYLE=\"FONT-SIZE: 18PX;\">PLZ, DOAN REUPLOAD VIDEOS DAT ARENT YOURS.</B><BR>
+        <BR>
+        THUMBNAILS R AUTO GENERATD. <BR>
+        ALL VIDEOS R CONVERTD 2 720P@1000KBPS H264/AAC BY FFMPEG, ALLOWIN WIDE VARIETY OV FORMATS.<BR>
+        VIDEOS MUST BE SMALLR THAN 100MB. (CUZ OV CLOUDFLARE)<BR>
+        NO COPYRIGHTD CONTENT DAT WILL GIT US DMCAD.<BR>
+        <B>VIDEOS R MANUALLY APPROVD.</B>",
         "watchHistory" => "History",
         "whatToWatch" => "What to Watch",
         "mySubscriptions" => "My Subscriptions",
@@ -233,18 +233,18 @@
         "deactive" => "deactivated",
 
         "fulptubeTOS" => "FulpTube Terms and Service",
-        "fulptubeTOSSub" => "                                                <b>General Rules</b><br>
-        Just don't be a huge idiot. This is a site made for fun. <br>
-        This is a site aimed towards recreating 2013 YouTube. <br>
-        The players + JS of the site is owned by YouTube. It is not ours.<br>
-        FulpTube is not associated in any way with Google LLC.<br>
-        All content found violating the USA's laws and federal regulations will be removed and the account associated with it banned.<br>
-        All attempts at ban evasion will NOT BE TOLERATED and will end up with a ban from FulpTube.<br>
-        No NSFW, no bigotry, no homophobia, and just use common sense. Thanks.<br><br>
-        <b>Bug Reports + Video Reports</b><br>
-        If you see a video breaking the TOS, please notify us at the discord in the footer.<br>
-        Found a bug? report it in the #bug-reports channel in the discord.<br><br>
-        <b>Contact</b><br>
+        "fulptubeTOSSub" => "                                                <B>GENERAL RULEZ</B><BR>
+        JUS DOAN BE HUGE IDIOT. DIS AR TEH SIET MADE 4 FUN. <BR>
+        DIS AR TEH SIET AIMD TOWARDZ RECREATIN 2013 YOUTUBE. <BR>
+        TEH PLAYERS + JS OV TEH SIET IZ OWND BY YOUTUBE. IT NOT OURS.<BR>
+        FULPTUBE IZ NOT ASSOCIATD IN ANY WAI WIF GOOGLE LLC.<BR>
+        ALL CONTENT FINDZ VIOLATIN TEH USAS LAWS AN FEDERAL REGULASHUNS WILL BE REMOVD AN TEH AKOWNT ASSOCIATD WIF IT BANND.<BR>
+        ALL ATTEMPTS AT BAN EVASHUN WILL NOT BE TOLERATD AN WILL END UP WIF BAN FRUM FULPTUBE.<BR>
+        NO NSFW, NO BIGOTRY, NO HOMOFOBIA, AN JUS USE COMMON SENSE. THX.<BR><BR>
+        <B>BUG REPORTS + VIDEO REPORTS</B><BR>
+        IF U C VIDEO BREAKIN TEH TOS, PLZ NOTIFY US AT TEH DISCORD IN DA FOOTR.<BR>
+        FINDZ BUG? REPORT IT IN DA #BUG-REPORTS CHANNEL IN DA DISCORD.<BR><BR>
+        <B>CONTACT</B><BR>
         Email: spacemygithub@gmail.com<br>
         Official Discord Server: In the footer<br>
         Discord: bhief cazinga#5644",
@@ -255,20 +255,20 @@
         Other things that are stored are your videos, comments, etcettera. You can request to retrieve them.<br>
         We do not sell data. <br>
         Have any privacy concerns? The discord is located above.<br>",
-        
+
         "ftCopyright" => "FulpTube Copyright",
-        "ftCopyrightSubtext" => "                                                <b>Copyright</b><br>
-        Make sure you're not making money off of music that is playing in a video's background.<br>
-        You can upload raw full songs as long as you give the original publisher credit.<br>
-        Impersonation of other trademarked or copyrighted companies is not tolerated.<br>
-        You have to make it easily noticeable that your channel is a parody if it is.",
+        "ftCopyrightSubtext" => "                                                <B>COPYRIGHT</B><BR>
+        MAK SURE URE NOT MAKIN MONEY OFF OV MUSIC DAT IZ PLAYIN IN VIDEOS BAKGROUND.<BR>
+        U CAN UPLOAD RAW FULL SONGS AS LONG AS U GIV TEH ORIGINAL PUBLISHR CREDIT.<BR>
+        IMPERSONASHUN OV OTHR TRADEMARKD OR COPYRIGHTD COMPANIEZ IZ NOT TOLERATD.<BR>
+        U HAS 2 MAK IT EASILY NOTICEABLE DAT UR CHANNEL IZ PARODY IF IT IZ.",
         "ftQA" => "FulpTube Q&A",
-    
-        "ftQASubtext" => "                        <b>I forgot my password.</b><br>
-        Join the Discord for support regarding passwords.<br><br>
-        <b>Why?</b><br>
-        I made FulpTube as a project for fun and I never expected so much traction and attention for it. <br>I'm keeping this site up as long as I can.<br>You should join the Discord if you want to talk to the community.<br><br>
-        <b>Who's the owner of this site?</b><br>
-        <a href=\"/user?n=chief%20bazinga\">chief bazinga</a><br>",
+
+        "ftQASubtext" => "                        <B>I FORGOT MAH PASWORD.</B><BR>
+        JOIN TEH DISCORD 4 SUPPORT REGARDIN PASWORDZ.<BR><BR>
+        <B>Y?</B><BR>
+        I MADE FULPTUBE AS PROJECT 4 FUN AN I NEVR EXPECTD SO MUTCH TRACSHUN AN ATTENSHUN 4 IT. <BR>IM KEEPIN DIS SIET UP AS LONG AS I CAN.<BR>U SHUD JOIN TEH DISCORD IF U WANTS 2 TALK 2 TEH COMMUNITY.<BR><BR>
+        <B>HOOS TEH OWNR OV DIS SIET?</B><BR>
+        <A HREF=\"/USR?N=CHIEF%20BAZINGA\">CHIEF BAZINGA</A><BR>",
     );
 ?>
