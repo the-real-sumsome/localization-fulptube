@@ -18,14 +18,14 @@
         "eViews" => "vistas",
         "worldwide" => "En todo el mundo",
         "gotIt" => "?Lo tengo!",
-        "welcomeToFulpTubeHomepage" => "Bienvenido a la p?gina web de FulpTube",
+        "welcomeToFulpTubeHomepage" => "Bienvenido a la p?gina principal de FulpTube",
         // [sidebar]
         "channelsForYou" => "Canales para t?",
         "dashboardText" => "Los v?deos de tus suscripciones al canal y las recomendaciones de v?deo personalizadas aparecen a continuaci?n. FulpTube clasifica estos v?deos en funci?n de lo que creemos que querr?s ver a continuaci?n.<br><br>
         ?Quieres ver toda la actividad m?s reciente de tus suscripciones?<br>
         Consulta <a href=\"#\">Mis suscripciones</a>.",
-        "subscriptions" => "Suscripciones",
-        "subscriptionManage" => "Gestionar Suscripciones",
+        "subscriptions" => "Subscripciones",
+        "subscriptionManage" => "Gestionar Subscripciones",
         "browseChannels" => "Navegar canales",
         "newestVideos" => "V?deos m?s recientes",
         "signInNow" => "Inicia sesi?n para ver tus canales y recomendaciones!",
@@ -58,7 +58,7 @@
         
         Si est? satisfecho con sus anotaciones, pulse el bot?n "Copiar al portapapeles" para copiar el contenido terminado en su portapapeles.',
         "vURL" => "URL del v?deo",
-        "actualUploadVideo" => "Cargar v?deo",
+        "actualUploadVideo" => "Subir v?deo",
         "delete" => "Borrar",
         "thumbnail" => "Miniatura",
         "upload" => "Subir a",
@@ -127,14 +127,14 @@
         // [upload]
         "uTitle" => "T?tulo",
         "category" => "Categor?a",
-        "privacySetting" => "Configuraci?n de la privacidad",
+        "privacySetting" => "Configuraci?n de privacidad",
         "description" => "Descripci?n",
         // [sign in]
         "signInBenifits" => "Inicia sesi?n ahora y usa tu cuenta de FulpTube para:",
         "s1a" => "Estar al d?a con tus canales favoritos",
         "s1b" => "Guarda v?deos para ver luego, mira recomendaciones solo para t?, o suscribete para tener actualizaciones de tus canales favoritos",
         "s2a" => "Mira en todos lados", 
-        "s2b" => "Toma tus selecciones contigo a cualquier lugar que vayas -- mira en tu smartphone, tablet o Smart TV.",
+        "s2b" => "Toma tus selecciones contigo a cualquier lugar que vayas -- mira en tu smartphone, tableta o Smart TV.",
         "s3a" => "Comparte con tus amigos",
         "s3b" => "Mira v?deos compartidos por tus amigos a trav?s de todas tus redes sociales -- todo en un solo lugar.", 
         // [misc]
@@ -172,7 +172,7 @@
         "contactNotifications" => "Avisos de contacto",
         "message" => "Mensaje",
         "time" => "Tiempo:",
-        "joindate" => "Se Uni? en",
+        "joindate" => "Se uni? el",
         "myChannel" => "Mi Canal",
         "videoManager" => "Gestor de v?deos",
         "fulptubeSettings" => "Configuraci?n",
@@ -192,16 +192,16 @@
         "personalMessages" => "Mensajes personales",
         "sharedWithYou" => "Compartido con usted",
         "banner" => "Banner",
-        "resWarn" => "Nota: La resoluci?n ?ptima para los banners es 821x176. Banners de resoluci?n diferente se estirar? para adaptarse correctamente.",
+        "resWarn" => "Nota: La resoluci?n ?ptima para los banners es 821x176. Banners de resoluci?n diferente se estirar?n para adaptarse correctamente.",
         "yourPhoto" => "Tu foto",
-        "socialLinks" => "Enlaces de Sociales",
+        "socialLinks" => "Enlaces de redes sociales",
         "links" => "Enlaces",
         "customURL" => "URL personalizada",
-        "leaveBlank" => "Deja vac?o si no quieres poner estos.",
+        "leaveBlank" => "Deja vac?o si no quieres poner esto.",
         "featureAndDescribe" => "Presentar y Describir",
         "describeAndfeature" => "Describir y Presentar",
         "sent" => "Enviado",
-        "webVTT" => "Nota: S?lo se admite WebVTT.",
+        "webVTT" => "Nota: S?lo se admiten subtitulos en formato WebVTT.",
         "edit" => "Editar",
         "maxRes" => "Nota: El tama?o m?ximo es de 1080p.",
         "bio" => "Biograf?a",
@@ -212,23 +212,23 @@
         "displayName" => "Nombre Visible",
         "addMoreVideos" => "A?adir m?s v?deos",
         "featuredChannels" => "Canales Destacados",
-        "exampleFeaturedChannels" => "Separar usando comas. No usar espacios. Ejemplo: chief bazinga,Sniped,Joel98",
+        "exampleFeaturedChannels" => "Separa usando comas, no uses espacios. Ejemplo: chief bazinga,Sniped,Joell98",
         "featuredVideo" => "V?deo Destacado",
         "warningFeaturedVideo" => "No debe tener espacios/espacio extra al final. Ejemplo: MTYwNTQ4ODc4Mja=24 es v?lido. NO INCLUYAS EL ENLACE DE FULPTUBE.ROCKS, SOLO EL ID. ",
-        "toggleFlash" => "Alternar Adobe Flash",
+        "toggleFlash" => "Activar Adobe Flash",
         "aboutResults" => "Aproximadamente %d resultados",
         "searchSubscriptions" => "Buscar Suscripci?nes",
         "watchLater" => "Ver Luego",
-        "donotreupload" => "Por favor, no vuelvas a subir v?deos que no son tuyos.<br>
+        "donotreupload" => "Por favor, no resubas v?deos que no son tuyos.<br>
 
         Las miniaturas se generan autom?ticamente.<br>
-        Todos los v?deos se convierten a 720p@1000kbps H264/AAC mediante FFMPEG, lo que permite una gran variedad de formatos.<br>
+        Todos los v?deos se convierten a 720p@1000kbps H264/AAC mediante ffmpeg, lo que permite una gran variedad de formatos.<br>
         Los v?deos deben ser menores de 100MB. (debido a Cloudflare)<br>
-        No hay contenido con derechos de autor que nos har? DMCA'd.<br>
+        Nada de contenido con derechos de autor que nos dara un DMCA.<br>
         Los v?deos se aprueban manualmente.<br>",
         "watchHistory" => "Historial",
         "whatToWatch" => "Qu? ver",
-        "mySubscriptions" => "Mis Suscripci?nes",
+        "mySubscriptions" => "Mis Subscripci?nes",
         "analytics" => "An?lisis",
         "dashboard" => "Panel",
         "adobeStatus" => "Adobe Flash no est? ",
@@ -238,19 +238,19 @@
 
         "fulptubeTOS" => "Condiciones de servicio de FulpTube",
         "fulptubeTOSSub" => "                        <b>Reglas generales</b><br>
-        No seas un gran idiota. Este es un sitio hecho para divertirse. <br>
+        No seas un idiota. Este es un sitio hecho para divertirse. <br>
         Este es un sitio orientado a recrear el YouTube de 2013. <br>
-        Los jugadores + JS del sitio es propiedad de YouTube. No es nuestro.<br>
+        Los reproductores + JavaScript del sitio es propiedad de YouTube. No es nuestro.<br>
         FulpTube no est? asociado de ninguna manera con Google LLC.<br>
         Todo el contenido que se encuentre violando las leyes de los EE.UU. y las regulaciones federales ser? eliminado y la cuenta asociada a ella baneada.<br>
-        Todos los intentos de evasi?n de la prohibici?n NO SER?N TOLERADOS y terminar?n con una prohibici?n de FulpTube.<br>
+        Todos los intentos de evasi?n de ban NO SER?N TOLERADOS y terminar?n con un ban de FulpTube.<br>
         Nada de NSFW, nada de fanatismo, nada de homofobia, y s?lo usar el sentido com?n. Gracias.<br><br>
         <b>Informes de errores + informes de v?deos</b><br>
         Si ves un v?deo que incumple las TOS, notif?calo en el discord del pie de p?gina.<br>
         ?Has encontrado un bug? rep?rtalo en el canal #bug-reports en el discord.<br><br>
         <b>Contacto</b><br>
         Correo electr?nico: spacemygithub@gmail.com<br>
-        Servidor oficial de discordia: En el pie de p?gina<br>
+        Servidor oficial de Discord: En el pie de p?gina<br>
         Discord: bhief cazinga#5644",
 
         "ftPrivacy" => "Pol?tica de privacidad de FulpTube",
