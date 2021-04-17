@@ -63,7 +63,7 @@
         "year" => "YER",
         "month" => "MONTH",
         "week" => "WEEK",
-        "dai" => "DAI",
+        "day" => "DAI",
         "hour" => "HOUR",
         "minute" => "MINIT",
         "second" => "SECOND",
