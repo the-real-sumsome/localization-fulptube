@@ -262,5 +262,15 @@
         Hice FulpTube como un proyecto para divertirme y nunca esperé tanta tracción y atención para él. <br>Mantendré este sitio mientras pueda.<br>Deberías unirte al Discord si quieres hablar con la comunidad.<br><br>
         <b>¿Quién es el dueño de este sitio?</b><br>
         <a href=\"/user?n=chief%20bazinga\">chief bazinga</a><br>",
+        
+                "year" => "hace año",
+        "month" => "hace mes",
+        "week" => "hace semana",
+        "day" => "hace día",
+        "hour" => "hace hora",
+        "minute" => "hace minuto",
+        "second" => "hace segundo",
+
+        "pluralTimeRight" => "s",
     );
 ?>
