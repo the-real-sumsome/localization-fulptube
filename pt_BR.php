@@ -161,7 +161,7 @@
         "termsAndCond" => "Termos",
         "sendFeedback" => "Mandar feedback",
         "recentUploads" => "Envios Recentes",
-        "uploads" => "Enviar",
+        "uploads" => "Envios",
         "searchSubscriptions" => "Pesquisar inscrições",
         "comments" => "comentário(s)",
         "inboxComments" => "Comentários",
