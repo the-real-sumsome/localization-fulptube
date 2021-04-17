@@ -238,7 +238,7 @@
 
         "ftPrivacy" => "FulpTube Privacy Policy ",
         "ftPrivacySubtext" => "                        <b>Privacy</b><br>
-        weenor<br>
+        weenor<br>",
         
         "ftCopyright" => "FulpTube Copyright",
         "ftCopyrightSubtext" => "                                                <b>Copyright</b><br>
