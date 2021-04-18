@@ -1,7 +1,7 @@
 <?php
     // [TODO]
     $cLang = array(
-        "languageD" => "Brazilian Portuguese",
+        "languageD" => "Português",
 
         // [categories]
         "recentC" => "Mais Recente no FulpTube - Global",
@@ -10,27 +10,27 @@
         "videoC" => "Jogos",
         // [video] 
         "byUsr" => "por",
-        "agoLeft" => "A Poucos",
-        "agoRight" => "Segundos atrás", // <agoLeft> <date> <agoRight> ex: 3 seconds ago
+        "agoLeft" => "Há",
+        "agoRight" => "atrás", // <agoLeft> <date> <agoRight> ex: 3 seconds ago
         "justNow" => "Agora mesmo",
         "ago" => "atrás",
         "country" => "País",
-        "eViews" => "Visualização",
+        "eViews" => "Visualizações",
         "worldwide" => "Global",
         "gotIt" => "Entendi!",
         "welcomeToFulpTubeHomepage" => "Bem-vindo a Pagina Inicial de FulpTube ",
         // [sidebar]
-        "channelsForYou" => "Canais Para Você",
+        "channelsForYou" => "Canais Recomendados",
         "dashboardText" => "Vídeos de suas inscrições e recomendações de vídeo personalizadas aparecem abaixo. O FulpTube classifica esses vídeos com base no que achamos que você deseja assistir a seguir.<br><br>
         Quer ver todas as atividades mais recentes de suas inscrições?<br>
         Confira! <a href=\"#\">My Subscriptions</a>.",
-        "subscriptions" => "Inscrições",
+        "subscriptions" => "assinantes",
         "subscriptionManage" => "Gerenciar Inscrições",
-        "browseChannels" => "Ver Canais",
+        "browseChannels" => "Procurar Canais",
         "newestVideos" => "Vídeos Recentes",
         "signInNow" => "Entra agora para ver seus canais e recomendações!",
         // [header]
-        "uploadVid" => "Enviar",
+        "uploadVid" => "Enviar Vídeos",
         "browse" => "Procurar",
         "vChannel" => "Canal",
         "feed" => "Feed",
@@ -70,7 +70,7 @@
 
         "pluralTimeRight" => "s",
         // [watch page]
-        "subscribe" => "Inscreva-se",
+        "subscribe" => "Inscrever-se",
         "language" => "Linguagem",
         "copyright" => "Direitos Autorais",
         "about" => "Sobre",
@@ -89,8 +89,8 @@
         "reply" => "Responder",
         "shareyourthoughts" => "Compartilhar seus pensamentos",
         "allComments" => "Todos os comentários",
-        "publishedAt2" => "Publicado no",
-        "topComments" => "Top Comentários",
+        "publishedAt2" => "Publicado em",
+        "topComments" => "Comentários Principais",
         "loadMore" => "Carregar Mais",
         // [profile]
         "discussion" => "Discussão",
@@ -126,7 +126,7 @@
         "privacySetting" => "Configurações de Privacidade",
         "description" => "Descrição",
         // [sign in]
-        "signInBenifits" => "Entra agora, e usa sua conta do FulpTube para: ",
+        "signInBenifits" => "Entra agora, e usa sua conta de FulpTube para: ",
         "s1a" => "Acompanhar seus canais favoritos",
         "s1b" => "Salvar vídeos para assistir depois, assistir recomendações só para você, ou inscrever-se para receber atualizações do seu canal favorito.",
         "s2a" => "	Assistir em qualquer lugar", 
@@ -142,7 +142,7 @@
         "register" => "Registrar",
         "signUp" => "Fazer Login",
         "orRegister" => "...ou <a href='/newsignup'>register</a>",
-        "unsubscribe" => "Desinscrever",
+        "unsubscribe" => "Inscrito",
         "addChannels" => "Adicionar Canais",
         "subscribed" => "Inscrito",
         "xVideos" => "vídeos",
@@ -162,16 +162,16 @@
         "sendFeedback" => "Mandar feedback",
         "recentUploads" => "Envios Recentes",
         "uploads" => "Envios",
-        "searchSubscriptions" => "Pesquisar inscrições",
+        "searchSubscriptions" => "Filtrar inscrições",
         "comments" => "comentário(s)",
         "inboxComments" => "Comentários",
         "contactNotifications" => "Notificações de Contrato",
-        "message" => "Mensagem",
+        "message" => "Enviar Mensagem",
         "time" => "Tempo:",
         "joindate" => "Entrou em ",
         "myChannel" => "Meu canal",
         "videoManager" => "Gerenciador de Vídeo",
-        "fulptubeSettings" => "Configurações",
+        "fulptubeSettings" => "Configurações do FulpTube",
         "userSettings" => "Configurações de Usuários",
         "signOut" => "Sair",
         "foogleAccount" => "Conta do Foogle",
@@ -207,14 +207,14 @@
         "videoManager" => "Gerenciador de Vídeo",
         "displayName" => "Nome de Exibição",
         "addMoreVideos" => "Adicionar mais Vídeos",
-        "featuredChannels" => "Canais em Destaque",
+        "featuredChannels" => "Destacar Canais",
         "exampleFeaturedChannels" => "Separe por vírgulas. Não adicione espaços ao lado das vírgulas. Exemplo: chefe bazinga, Sniped, Joel98",
-        "featuredVideo" => "Vídeo em Destaque",
+        "featuredVideo" => "Destacar um vídeo",
         "warningFeaturedVideo" => "Não deve ter espaços em branco / espaços extras no final. Exemplo: MTYwNTQ4ODc4Mja = 24 é válido. NÃO INCLUA LINK FULPTUBE.ROCKS , APENAS O ID",
         "toggleFlash" => "Ativar Player em Flash",
-        "aboutResults" => "Sobre %s Resultados",
+        "aboutResults" => "Aproximadamente %s Resultados",
         "searchSubscriptions" => "Pesquisar Inscrições",
-        "watchLater" => "Assistir Depois",
+        "watchLater" => "Assistir Mais Tarde",
         "donotreupload" => "                            <b style=\"font-size: 18px;\">Por favor, não enviar vídeos que não sejam seus. </b><br>
         <br>
         As miniaturas são geradas automaticamente. <br>
@@ -222,11 +222,11 @@
         Os vídeos devem ter menos de 100 MB. (por causa do Cloudflare)<br>
         Nenhum conteúdo protegido por direitos autorais que nos resulta em DMCA.<br>
         <b>Os vídeos são aprovados manualmente.</b>",
-        "watchHistory" => "Histórico",
-        "whatToWatch" => "O que assistir",
+        "watchHistory" => "Histórico de exibição",
+        "whatToWatch" => "Sugestões",
         "mySubscriptions" => "Minhas Inscrições",
         "analytics" => "Analytics",
-        "dashboard" => "Painel",
+        "dashboard" => "Painel de Controle",
         "adobeStatus" => "Adobe Flash no est? ",
         "active" => "ativado",
         "guide" => 'Guia',
